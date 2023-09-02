@@ -1,0 +1,1 @@
+This is follow-along example of flexbox. The goal of the project is to use CSS to align items in a column, change their order and change their alignment along the flex axis.
