@@ -7,7 +7,7 @@
     justify-content: center;
 }
 
-.red, .yellow, .blue {
+.red, .yellow, .blue, .orange, .green {
     height: 200px;
     width: 200px;
     display: flex;
@@ -28,5 +28,13 @@
 .blue {
     background-color: blue;
     align-self: flex-end;
+
+}
+.green{
+    background-color: green
+}
+.orange {
+    background-color: orange;
+
 
 }
